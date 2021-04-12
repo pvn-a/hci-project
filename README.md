@@ -12,3 +12,6 @@ This repo contains all deliverables for the course - Human Computer Interaction 
 - Empathy Map
 - Low-fidelity diagrams
 - Heuristic Evaluation (Shneiderman's Eight Golden Rules)
+
+## Acknowledgement
+We thank Dr. Jayashree ma'am for her constant support and also for guiding us to complete this project, successfully.
